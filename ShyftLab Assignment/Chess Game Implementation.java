@@ -73,7 +73,7 @@ public class Main {
         if (Character.isUpperCase(piece) && !whiteTurn) {
             return false;
         }
-        // Implement more detailed move validation logic here
+        
         return true;
     }
 
